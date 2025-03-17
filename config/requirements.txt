@@ -1,0 +1,7 @@
+mysql-connector-python==8.3.0
+mysql~=0.0.3
+narration~=0.2.13
+fpdf2~=2.7.0
+#fpdf.fonts==1.7.1
+pypiwin32
+pywin32
