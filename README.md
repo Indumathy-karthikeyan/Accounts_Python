@@ -16,6 +16,15 @@ The following reports can be prepared and hard copies can also be taken
       The consolidated transactions from the starting of the accounting year till date. This trial balance can be printed for nominal accounts as well as for Assests and Liabilities separetely
 
 # Dependencies
-   mysql
+   * MySQL 
 
 # How to run
+
+* Install the required python packages
+  * ``` pip install -r config/requirements.txt```
+
+* Create required MySQL tables using the sql commands under `config/database.sql`
+
+* Start the program using below command
+
+  * ``` scripts/accounts.bat```
