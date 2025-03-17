@@ -1,1 +1,0 @@
-@echo off "C:\Users\vpvij\Desktop\Accounts\venv\Scripts\python.exe" "C:\Users\vpvij\Desktop\Accounts\venv\main.py"
